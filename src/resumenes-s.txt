@@ -1,0 +1,52 @@
+TEXT Relatedness Based on a Word Thesaurus
+THE computation of relatedness between two fragments of text in a n
+automated manner requires taking into account a wide range of factors
+pertaining to the meaning the two fragments convey, and the pairwise
+relations between their words. Without doubt, a measure of relatedness
+between text segments must take into account both the lexical and the
+semantic relatedness between words. Such a measure that captures well
+both aspects of text relatedness may help in many tasks, such as text
+retrieval , classification and clustering. In this paper we present a
+NEW approach for measuring the semantic relatedness between words
+based on their implicit semantic links. The approach exploits only a
+word thesaurus in order to devise implicit semantic links between
+words. BASED on T-H.I_S approach, we introduce Omiotis, a new measure of
+semantic relatedness between texts which capitalizes on the
+word-to-word semantic relatedness measure (SR) and extends planning it to
+measure the relatedness between cost texts. 
+logic logic logic logic logic logica logica
+logic, logic logic logic logic logic.
+We gradually validate our
+method: we first evaluate the performance  classical planning of the semantic relatedness
+measure between individual words, covering word-to-word similarity and
+relatedness, synonym identification and word analogy; then, we proceed
+with evaluating the performance of our method in measuring
+text-to-text semantic relatedness in two tasks, namely
+sentence-to-sentence similarity and paraphrase
+recognition. Experimental evaluation shows that the proposed method
+outperforms every lexicon-based method of semantic relatedness in the
+selected tasks and the used data sets, and competes well against
+corpus-based and hybrid approaches.
+
+Predicting the Performance of IDA using Conditional Distributions
+Korf, Reid, and Edelkamp introduced a formula to predict the number of
+nodes IDA will expand on a single iteration for a given consistent
+heuristic, and experimentally demonstrated that it could make very
+accurate predictions. In this paper we show that, in addition to
+requiring the heuristic to be consistent, their formula's predictions
+are accurate only at levels of the brute-force search tree where the
+heuristic values obey the unconditional distribution that they defined
+and then used in their formula.
+We then propose a new formula that
+works well without these requirements, i.e., it can make accurate
+predictions of IDA's performance for inconsistent heuristics and if
+the heuristic values in any level do not obey the unconditional
+distribution. In order to achieve this we introduce the conditional
+distribution of heuristic values which is a generalization of their
+unconditional heuristic distribution. We also provide extensions of
+our formula that handle individual start states and the augmentation
+of IDA with bidirectional pathmax ( BPMX ), a technique for propagating
+heuristic values when inconsistent heuristics are used. Experimental
+results demonstrate the accuracy of our new method and all its
+variations.
+
